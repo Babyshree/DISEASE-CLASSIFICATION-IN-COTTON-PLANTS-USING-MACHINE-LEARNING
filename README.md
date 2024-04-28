@@ -32,3 +32,5 @@ This project can be used for predicting cotton plant diseases based on the provi
 - NumPy
 - Pandas
 - scikit-learn
+- Matplotlib
+- Seaborn
